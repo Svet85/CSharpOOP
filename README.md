@@ -1,2 +1,2 @@
 # CSharpOOP
-OOP module at SoftUni
+OOP module at SoftUni - June 2022
